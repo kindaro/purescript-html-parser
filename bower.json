@@ -2,6 +2,10 @@
   "name": "purescript-html-parser",
   "version": "2.0.0",
   "license" : "ISC",
+  "repository": {                                                          
+      "type": "git",                                                         
+      "url": "git@github.com:kindaro/purescript-html-parser.git"            
+  },
   "moduleType": [
     "node"
   ],
